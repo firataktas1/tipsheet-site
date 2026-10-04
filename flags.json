@@ -1,0 +1,4 @@
+{
+  "ads": { "enabled": false, "stats": true, "history": true },
+  "note": "Remote switches for the Tipsheet app. ads.enabled=false turns every ad slot off on the next app start."
+}
